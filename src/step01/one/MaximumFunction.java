@@ -1,4 +1,4 @@
-package first;
+package step01.one;
 
 public class MaximumFunction {
 
