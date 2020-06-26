@@ -35,6 +35,10 @@ public class ReverseTest {
 			
 		}
 		System.out.println("sum: "+sum);
+		
+		
+		System.out.println("==============");
+		
 	}
 	
 }
