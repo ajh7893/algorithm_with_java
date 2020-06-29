@@ -18,6 +18,7 @@ public class Test03 {
 	
 	public static void main(String[] args) {
 		sumof(2,10);
+		sumof(10,2);
 	}
 
 
