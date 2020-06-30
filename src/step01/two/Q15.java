@@ -83,6 +83,10 @@ public class Q15 {
 			System.out.println();
 
 		}
+		System.out.println("--------------------------");
+		System.out.println(1%2);
+		System.out.println(2%1);
+
 
 	}
 
