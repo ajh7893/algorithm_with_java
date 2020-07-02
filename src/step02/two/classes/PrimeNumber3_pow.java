@@ -1,4 +1,4 @@
-package step.two.classes;
+package step02.two.classes;
 
 
 //넓이가 100이라는것은 직사각혀으이 어느 한 변으로 나눌 수 있다라는 의미입니다. 이러한 성질을 이용하여 제곱근을 한 번으로 하는 이후의 직사각형에 대한

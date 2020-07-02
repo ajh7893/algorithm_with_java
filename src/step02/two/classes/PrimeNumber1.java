@@ -1,4 +1,4 @@
-package step.two.classes;
+package step02.two.classes;
 
 public class PrimeNumber1 {
 
