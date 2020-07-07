@@ -74,6 +74,7 @@ public class PhysicalExamination {
 			System.out.printf("%3.1f~%2d명\n", i/10.0,vdist[i]);
 			
 		}
+		System.out.println(" 1%2 : "+1%2);
 	}
 	}
 	
