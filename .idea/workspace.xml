@@ -2,11 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06307a58-42cf-4b46-a7fc-d19d7aeaf44f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step03/binsearch/BinarySearchTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step04/stack/IntStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/step04/stack/IntStackTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/step04/que/IntArrQueue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/first/max/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/first/max/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/other/one/sangi/소수판별.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/other/one/sangi/소수판별.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/other/one/sangi/소인수분해.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/other/one/sangi/소인수분해.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/other/one/sangi/최댓값과최솟값.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/other/one/sangi/최댓값과최솟값.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/recursion/Maze.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Maze.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/GausAdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/GausAdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/JudgeSign.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/JudgeSign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Max3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Max3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Maximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Maximum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/MaximumFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/MaximumFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Median.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Median.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Median1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Median1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/MedianEx01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/MedianEx01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Test2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Test2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/one/Test3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/one/Test3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Q12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Q12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Q15.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Q15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/SumFor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/SumFor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/SumWhile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/SumWhile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test01.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test02.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test03.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test04.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test05.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step01/two/Test06.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step01/two/Test06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/ArrayEqual.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/ArrayEqual.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/MaxOfArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/MaxOfArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/MaxOfRandom.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/MaxOfRandom.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/ReverseArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/ReverseArray_Q2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/ReverseArray_Q2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/array/ReverseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/array/ReverseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/conversion/CardConRev.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/conversion/CardConRev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/conversion/CardConRev_Q6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/conversion/CardConRev_Q6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/conversion/CardConvRev.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/conversion/CardConvRev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/one/conversion/Exam7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/one/conversion/Exam7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/classes/PhysicalExamination$PhyscData.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/classes/PhysicalExamination$PhyscData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/classes/PhysicalExamination.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/classes/PhysicalExamination.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber2_arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber2_arr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber3_pow.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/classes/PrimeNumber3_pow.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/day/DayOfYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/day/DayOfYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step02/two/day/Q8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step02/two/day/Q8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step03/binsearch/BinSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step03/binsearch/BinarySearchTester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step03/seqsearch/SeqSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/step03/seqsearch/SeqSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/step03/seqsearch/SeqSearchSen.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,75 +59,36 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/step03/seqsearch/SeqSearchSen.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="54" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/step03/binsearch/BinSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/step03/binsearch/BinarySearchTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/step04/stack/IntStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-492">
+            <state relative-caret-position="-151">
               <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-              <folding>
-                <element signature="e#2062#2063#0" expanded="true" />
-                <element signature="e#2080#2081#0" expanded="true" />
-                <element signature="e#2132#2133#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
-                <element signature="e#2285#2286#0" expanded="true" />
-                <element signature="e#2314#2315#0" expanded="true" />
-                <element signature="e#2357#2358#0" expanded="true" />
-                <element signature="e#2390#2391#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/step04/stack/IntStackTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+        <entry file="file://$PROJECT_DIR$/src/step04/que/IntArrQueue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-257">
-              <caret line="1905" column="23" selection-start-line="1905" selection-start-column="23" selection-end-line="1905" selection-end-column="23" />
-              <folding>
-                <element signature="e#88329#88330#0" expanded="true" />
-                <element signature="e#88386#88387#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="486">
+              <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -110,8 +115,15 @@
         <option value="$PROJECT_DIR$/src/step04/stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/step04/stack/IntStackTester.java" />
         <option value="$PROJECT_DIR$/src/step04/stack/IntStack.java" />
+        <option value="$PROJECT_DIR$/src/step04/que/IntArrQueue.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -123,7 +135,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,19 +151,20 @@
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stack" type="462c0819:PsiDirectoryNode" />
+              <item name="step04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594202769031" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611997795252" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -243,18 +255,21 @@
       <updated>1593569320426</updated>
       <workItem from="1593569330992" duration="116000" />
       <workItem from="1594118346816" duration="6384000" />
-      <workItem from="1594197772559" duration="4529000" />
+      <workItem from="1594197772559" duration="5075000" />
+      <workItem from="1611990927222" duration="1996000" />
+      <workItem from="1612248367836" duration="1200000" />
+      <workItem from="1612335795153" duration="1832000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11029000" />
+    <option name="totallyTimeSpent" value="16603000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18097281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -279,10 +294,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.3297568" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297568" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,14 +320,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/step03/binsearch/BinSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
+        <state relative-caret-position="441">
           <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step03/binsearch/BinarySearchTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_241.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-257">
+        <state relative-caret-position="38766">
           <caret line="1905" column="23" selection-start-line="1905" selection-start-column="23" selection-end-line="1905" selection-end-column="23" />
           <folding>
             <element signature="e#88329#88330#0" expanded="true" />
@@ -321,37 +346,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/step03/binsearch/BinarySearchTester.java">
+    <entry file="file://$PROJECT_DIR$/src/step04/stack/IntStackTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/step04/que/IntArrQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/step04/stack/IntStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-492">
+        <state relative-caret-position="-151">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-          <folding>
-            <element signature="e#2062#2063#0" expanded="true" />
-            <element signature="e#2080#2081#0" expanded="true" />
-            <element signature="e#2132#2133#0" expanded="true" />
-            <element signature="e#2158#2159#0" expanded="true" />
-            <element signature="e#2285#2286#0" expanded="true" />
-            <element signature="e#2314#2315#0" expanded="true" />
-            <element signature="e#2357#2358#0" expanded="true" />
-            <element signature="e#2390#2391#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/step04/stack/IntStackTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="651">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
         </state>
       </provider>
     </entry>
